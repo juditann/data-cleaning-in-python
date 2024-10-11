@@ -2,7 +2,7 @@
 
 ## Dataset
 
-The dataset for this project can be found on (Kaggle)[https://www.kaggle.com/datasets/snehangsude/audible-dataset/data] (licensed under CC0: Public Domain).
+The dataset for this project can be found on [Kaggle](https://www.kaggle.com/datasets/snehangsude/audible-dataset/data) (licensed under CC0: Public Domain).
 
 The dataset consists of audibooks released from 1998 to 2025 (pre-palanned release), which was web-scraped by the dataset's author from the Audible India's website.
 
