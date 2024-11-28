@@ -18,9 +18,9 @@ To achieve this objective, the above was broken down into the following sub-obje
 
 ## Main Insights 
 
-From the exploratory data analysis, we found out that the current Audiobooks market is characterised by:
-- Insight #1
-- Insight #2
+From the exploratory data analysis using the cleaned dataset, we found the following observations:
+- The release of audiobooks on Audible shows an exponential growth, with the largest number of books released happening in the year interval 2022-2023. [add graph below this sentence]
+- There is a positive correlation between an audiobook's duration and price. However, correlation doesn't mean causation. Other factors that could affect an audiobook's price could be the popularity of a book's author, the popularity of a narrator, whether an audiobook was translated, and any additional offers/sales placed on the book by Audible or the book's publisher.[add graph below this paragraph]
 - Insight #3
 
 
