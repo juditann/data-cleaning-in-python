@@ -12,8 +12,9 @@ The main objective of this project is:
 > To perform data cleaning techniques and data analysis to get an overview of the current patterns in the Audiobooks market.
 
 To achieve this objective, the above was broken down into the following sub-objectives:
-1. To clean the dataset by checking for missing data and any inaccuracies within the dataset.
-2. To perform in-depth exploratory data analysis of the cleaned dataset.
+1. To discover data quality issues, such as missing data or duplicated data.
+2. To perform data cleaning and fix those data quality issues.
+3. To perform in-depth exploratory data analysis using the cleaned dataset.
 
 ## Main Insights 
 
