@@ -13,7 +13,7 @@ The main objective of this project is:
 
 To achieve this objective, the above was broken down into the following sub-objectives:
 1. To discover data quality issues, such as missing data or duplicated data.
-2. To perform data cleaning and fix those data quality issues.
+2. To perform data cleaning and fix the identified data quality issues.
 3. To perform in-depth exploratory data analysis using the cleaned dataset.
 
 ## Main Insights 
