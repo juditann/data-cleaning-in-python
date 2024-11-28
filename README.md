@@ -9,7 +9,7 @@ The dataset consists of audibooks released from 1998 to 2025 (pre-palanned relea
 ## Objectives
 The main objective of this project is:
 
-> To perform data cleaning techniques and data analysis to get an overview of the current patterns in the Audiobooks market.
+> To perform data cleaning techniques and data analysis to get an overview of the current Audiobooks market.
 
 To achieve this objective, the above was broken down into the following sub-objectives:
 1. To discover data quality issues, such as missing data or duplicated data.
