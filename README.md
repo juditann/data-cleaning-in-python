@@ -28,17 +28,5 @@ From the exploratory data analysis using the cleaned dataset, we found the follo
 <p align="center">
   <img src="/assets/vis2.png" />
 </p>
-- Insight #3
-
-
-## Engineered Features
-
-
-
-## Model Selection
-
-Model Explainability
 
 ## Business Metrics
-
-## Prediction Service
