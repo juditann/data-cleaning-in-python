@@ -24,7 +24,10 @@ From the exploratory data analysis using the cleaned dataset, we found the follo
   <img src="/assets/vis1.png" />
 </p>
 
-- There is a positive correlation between an audiobook's duration and price. However, correlation doesn't mean causation. Other factors that could affect an audiobook's price could be the popularity of a book's author, the popularity of a narrator, whether an audiobook was translated, and any additional offers/sales placed on the book by Audible or the book's publisher.![Scatter plot showing correlation between an audiobook's duration and price.](/assets/vis2.png)
+- There is a positive correlation between an audiobook's duration and price. However, correlation doesn't mean causation. Other factors that could affect an audiobook's price could be the popularity of a book's author, the popularity of a narrator, whether an audiobook was translated, and any additional offers/sales placed on the book by Audible or the book's publisher.
+<p align="center">
+  <img src="/assets/vis2.png" />
+</p>
 - Insight #3
 
 
