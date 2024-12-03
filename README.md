@@ -20,6 +20,9 @@ To achieve this objective, the above was broken down into the following sub-obje
 
 From the exploratory data analysis using the cleaned dataset, we found the following observations:
 - The release of audiobooks on Audible shows an exponential growth, with the largest number of books released happening in the year interval 2022-2023.
+  - This rise in the number of released books within the year interval 2022-2023 could be related to people going back to work after the pandemic, which could have resulted in an increase in the demand of audiobooks due to things such as, commuting to work or travelling to other cities/countries.
+  - Eventhough the number of released books has been increasing exponentially, the number started to increase drastically at around the year 2018 onwards. This might have been due to the rise in popularity of Audible in the late 2010s (Hilton, 2023).
+  - Based on this analysis, we could carry out demand forecasting to estimate future customer demand and understand how releasing audibooks could make an impact on the business.
 <p align="center">
   <img src="/assets/vis1.png" />
 </p>
