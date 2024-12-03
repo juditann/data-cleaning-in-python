@@ -21,7 +21,7 @@ To achieve this objective, the above was broken down into the following sub-obje
 From the exploratory data analysis using the cleaned dataset, we found the following observations:
 - The release of audiobooks on Audible shows an exponential growth, with the largest number of books released happening in the year interval 2022-2023.
 <p align="center">
-  <img src="/assets/vis.png" />
+  <img src="/assets/vis1.png" />
 </p>
 
 - There is a positive correlation between an audiobook's duration and price. However, correlation doesn't mean causation. Other factors that could affect an audiobook's price could be the popularity of a book's author, the popularity of a narrator, whether an audiobook was translated, and any additional offers/sales placed on the book by Audible or the book's publisher.![Scatter plot showing correlation between an audiobook's duration and price.](/assets/vis2.png)
